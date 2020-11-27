@@ -40,7 +40,7 @@ Here are two [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance
 [Discuss on Alfred Forum](https://www.alfredforum.com/topic/12287-superhuman-light-and-carbon-themes/).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/superhuman/superhuman-themes.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-superhuman/raw/main/superhuman/superhuman-themes.zip" class="button">
     Download Themes
   </a>
 </p>
@@ -59,7 +59,7 @@ This theme makes use of the open source [Fira Code font](https://github.com/tons
 [![Superhuman Snow - Alfred Theme Preview](./assets/superhuman-snow.png)](./assets/superhuman-snow.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/superhuman/superhuman-snow.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-superhuman/raw/main/superhuman/superhuman-snow.zip" class="button">
     Download - Superhuman Snow Theme
   </a>
 </p>
@@ -69,7 +69,7 @@ This theme makes use of the open source [Fira Code font](https://github.com/tons
 [![Superhuman Carbon - Alfred Theme Preview](./assets/superhuman-carbon.png)](./assets/superhuman-carbon.png)
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/superhuman/superhuman-carbon.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-superhuman/raw/main/superhuman/superhuman-carbon.zip" class="button">
     Download - Superhuman Carbon Theme
   </a>
 </p>
