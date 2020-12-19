@@ -44,9 +44,9 @@ This theme makes use of the open source [Fira Code font](https://github.com/tons
 
 ## Suggested configuration
 
-Disable the Alfred hat logo by unchecking: `Alfred Preferences › Appearance › Options › Hide hat on Alfred window`
+Disable the Alfred hat logo by checking: `Alfred Preferences › Appearance › Options › Hide hat on Alfred window`
 
-Disable result shortcuts by unchecking: : `Alfred Preferences › Appearance › Options › Hide result shortcuts`
+Disable result shortcuts by unchecking: `Alfred Preferences › Appearance › Options › Hide result shortcuts`
 
 Simplify results by switching the result subtext to "Only for Alternative Actions".
 
